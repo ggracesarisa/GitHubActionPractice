@@ -1,0 +1,25 @@
+[debug] [2025-04-23T06:47:47.611Z] ----------------------------------------------------------------------
+[debug] [2025-04-23T06:47:47.615Z] Command:       C:\Program Files\nodejs\node.exe D:\CICD\GitHubActionPractice\node_modules\firebase-tools\lib\bin\firebase.js init emulators
+[debug] [2025-04-23T06:47:47.616Z] CLI Version:   14.2.0
+[debug] [2025-04-23T06:47:47.616Z] Platform:      win32
+[debug] [2025-04-23T06:47:47.616Z] Node Version:  v22.14.0
+[debug] [2025-04-23T06:47:47.617Z] Time:          Wed Apr 23 2025 13:47:47 GMT+0700 (Indochina Time)
+[debug] [2025-04-23T06:47:47.617Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-04-23T06:47:48.003Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-04-23T06:47:48.004Z] > authorizing via signed-in user (gracesarisa19@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\CICD\GitHubActionPractice
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
